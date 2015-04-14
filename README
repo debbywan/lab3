@@ -1,0 +1,14 @@
+I use vector and sort to write question A
+however,i can onlt 排序，現在還想不到怎麼讓前五個加總
+
+執行:./a.out
+主要程式:main.cpp
+
+
+question b:
+將程式改寫後
+用不同數字帶
+sort 是用quicksort，花費時間是n logn
+insert sort,花費時間是n^2
+
+到了100000insert sort就跑很久了
