@@ -12,3 +12,12 @@ sort 是用quicksort，花費時間是n logn
 insert sort,花費時間是n^2
 
 到了100000insert sort就跑很久了
+
+
+補充:
+我又新加了了可以計算總共重量的sort.cpp
+但是無法和之前的排序連在一起
+然後makefile
+是sort.cpp 和 file.in 的
+compile:make
+執行:./sort
